@@ -1,1 +1,1 @@
-# CMPUT414
+#### CMPUT414 MOCAP Classification Project Files
