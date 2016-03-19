@@ -1,4 +1,7 @@
 '''
+this program read a .amc file and store 29 joint points as 29 arrays as the name of
+the joint, and indexed by frame.
+sample calls showed at the bottom
 
 Georgios Pierris
 Cognitive Robotics Research Centre,
