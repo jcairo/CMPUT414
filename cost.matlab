@@ -2,7 +2,7 @@
 [FileName,PathName] = uigetfile('*.bvh*','Select a Image file');
 File = fullfile('',FileName); 
 [skel, channels, frameLength] = bvhReadFile(File);
-magicalconstant = 21
+magicalconstant = 42
 %%this constant should be trained base on the average cost domin range.
 %%the idea is to convert the orginal cost graph(1/x shaped) to a (x+1/x shaped) graph
 %% there will definately be a bottom of the graph, and we believe that that's gonna be the k value we need.
