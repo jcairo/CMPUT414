@@ -1,4 +1,3 @@
-#### CMPUT414 MOCAP Classification Project Files
+#### CMPUT414 MOCAP Classification Project
 
-[https://datasciencelab.wordpress.com/2013/12/27/finding-the-k-in-k-means-clustering/]
-
+* This repo contains Matlab code for CMPUT 414 Mocap classification project.
